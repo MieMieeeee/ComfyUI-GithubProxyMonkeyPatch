@@ -1,6 +1,6 @@
 # ComfyUI-GithubProxyMonkeyPatch
 
-This project provides a monkey patch for `aiohttp`'s `ClientSession` to modify GitHub URLs to use a proxy.
+This project provides a monkey patch for `aiohttp`'s `ClientSession` to modify GitHub URLs to use a proxy - https://ghfast.top/.
 
 ## Features
 
